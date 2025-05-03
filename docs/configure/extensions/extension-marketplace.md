@@ -392,3 +392,6 @@ VS Code does not synchronize your extensions to or from a [remote](/docs/remote/
 You can control which extensions can be installed in your organization by configuring the `extensions.allowed` application setting. If the setting is not configured, all extensions are allowed. If the setting is configured, all extensions not listed are blocked from installing.
 
 Get more details about [configuring allowed extensions](/docs/setup/enterprise.md#configure-allowed-extensions).
+start
+
+

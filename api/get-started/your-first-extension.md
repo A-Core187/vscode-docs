@@ -99,3 +99,4 @@ In this guide, we mainly describe how to develop VS Code extension with TypeScri
 ### UX Guidelines
 
 This is also a good time to review our [UX Guidelines](/api/ux-guidelines/overview) so you can start designing your extension user interface to follow the VS Code best practices.
+start
